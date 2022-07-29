@@ -35,6 +35,7 @@ p {
   font-family: 'Merriweather', serif;
   font-size: 20px;
   color: #231955;
+  line-height: 2;
 }
 
 a {
@@ -110,11 +111,10 @@ a:active {
   width: 60%;
   margin: 80px auto 80px auto;
   text-align: left;
-  line-height: 2;
 }
 
 .profile {
-  width: 60%;
+  width: 40%;
   margin: 6em auto 8em auto;
 }
 
